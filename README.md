@@ -1,92 +1,111 @@
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/github-header-image.gif" width="100%">
+<div align="center">
+  
+<!-- Animated header with typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&height=80&lines=Hey+there%2C+I'm+Hardik+Codes+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%AD%90;Tech+Geek+%F0%9F%A7%A0" alt="Typing SVG" />
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/wave.gif" width="30px" height="30px"> Hi, I'm Hardik Batra!
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/Earth.gif" width="30px" height="30px">
-</h1>
+<!-- Animated divider -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/divider.gif" width="100%">
 
+<!-- Profile views counter -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=HardikCodes0&label=Profile%20views&color=0e75b6&style=flat" alt="HardikCodes0" /> 
+  <a href="https://github.com/HardikCodes0?tab=followers">
+    <img src="https://img.shields.io/github/followers/HardikCodes0?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+</p>
+
+<!-- Animated about me section -->
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/india.gif" width="20px" height="20px"> A passionate full stack developer from India
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/Developer.gif" width="40px" height="30px">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/about_me.gif" width="50px"> About Me
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/animated-flame-01.gif" width="16px" align="left"/>
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/animated-flame-01.gif" width="16px" align="right"/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=MERN+Stack+Developer;Django+%26+React+Enthusiast;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/developer.gif" width="200" height="200">
 </p>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/borderseperator.gif" width="100%">
+<p align="center">
+  - 🔭 I'm currently working on Full Stack Development projects<br>
+  - 🌱 Learning everything about MERN Stack and DevOps<br>
+  - 👯 Looking to collaborate on Open Source projects<br>
+  - 💬 Ask me about Web Development or any tech stuff<br>
+  - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes
+</p>
 
-## <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/about_me.gif" width="30px"> About Me
+<!-- Animated divider -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/rainbow_divider.gif" width="100%">
 
-- 🚀 I'm passionate about building scalable web applications and solving complex problems
-- 💻 Full-Stack Developer | MERN | Django | React
-- 🌐 All of my projects are available at [https://hardikbatradev.netlify.app/](https://hardikbatradev.netlify.app/)
-- 📫 How to reach me: [batrahardik09@gmail.com](mailto:batrahardik09@gmail.com)
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1mT3O-K26mmyMPzsvORC1ge1tbOFtoVYG/view?usp=sharing)
-- ⚡ Fun fact: I think I'm funny
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/line.gif">
-
-## <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/handshake.gif" width="30px"> Connect with me
+<!-- Animated tech stack section -->
+<h3 align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-Readme-ideas/blob/master/data/technologist.gif" width="50px"> Tech Stack
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hardik-batra" target="_blank">
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/linkedin.gif" height="100px" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/html.gif" width="50">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/css.gif" width="50">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/javascript.gif" width="50">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/react.gif" width="50">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/nodejs.gif" width="50">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/mongodb.gif" width="50">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/git.gif" width="50">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/python.gif" width="50">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/java.gif" width="50">
+</p>
+
+<!-- Animated stats section -->
+<h3 align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/stats.gif" width="50px"> GitHub Stats
+</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HardikCodes0&show_icons=true&theme=radical&count_private=true" alt="HardikCodes0" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikCodes0&layout=compact&theme=radical" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HardikCodes0&theme=radical" alt="HardikCodes0" height="180">
+</p>
+
+<!-- Animated activity graph -->
+<h3 align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/activity.gif" width="50px"> Contribution Graph
+</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HardikCodes0&theme=react-dark&hide_border=true&area=true" width="100%">
+</p>
+
+<!-- Animated trophy section -->
+<h3 align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/trophy.gif" width="50px"> Achievements
+</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HardikCodes0&theme=onedark&no-frame=true&row=1&column=7" width="100%">
+</p>
+
+<!-- Animated contact section -->
+<h3 align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/contact.gif" width="50px"> Connect With Me
+</h3>
+
+<p align="center">
+  <a href="https://twitter.com/yourusername" target="blank">
+    <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/twitter.gif" alt="yourusername" height="50" />
   </a>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/instagram.gif" height="100px" />
+  <a href="https://linkedin.com/in/yourusername" target="blank">
+    <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/linkedin.gif" alt="yourusername" height="50" />
+  </a>
+  <a href="https://instagram.com/yourusername" target="blank">
+    <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/instagram.gif" alt="yourusername" height="50" />
+  </a>
+  <a href="https://discord.gg/yourusername" target="blank">
+    <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/discord.gif" alt="yourusername" height="50" />
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/line.gif">
-
-## <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/design-tools.gif" width="30px"> Languages and Tools
-
+<!-- Animated footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/javascript.webp" width="70px" />&nbsp;
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/react.webp" width="70px" />&nbsp;
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/nodejs.webp" width="70px" />&nbsp;
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/mongodb.webp" width="70px" />&nbsp;
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/python.webp" width="70px" />&nbsp;
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/html.webp" width="70px" />&nbsp;
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/css.webp" width="70px" />&nbsp;
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/typescript.gif" width="70px" />&nbsp;
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/aws.webp" width="70px" />&nbsp;
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/gifs/footer.gif" width="100%">
 </p>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/line.gif">
-
-## <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/stats.gif" width="30px"> GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HardikCodes0&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HardikCodes0&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikCodes0&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/line.gif">
-
-## <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/trophy.gif" width="30px"> GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HardikCodes0&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/line.gif">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/this-is-fine-fire.gif" width="100px">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=HardikCodes0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/snake.svg" width="100%">
+</div>
