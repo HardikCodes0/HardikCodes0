@@ -1,31 +1,27 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 <h1><b>Hi there, I'm </b><a href="https://github.com/HardikCodes0">Hardik Batra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me***
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-I am a **Computer Science** student in my 2nd year of BCA at Christ University, passionate about **web development** and **software engineering**. I have experience working on **full-stack development** and aspire to grow as a tech professional while also exploring freelancing to support my travel goals.
-
-- 📚 I’m currently learning:
-  - *Data Structures & Algorithms*
-  - *Arduino & Robotics*
-  - *Java Development*
-- 🚀 Open to collaborating on projects and internships.
-- ✔ Feel free to ask me anything! I love helping others.
-- Outside tech, I enjoy traveling ✈️, playing video games 🎮, and listening to music 🎵.
-- 📫 Reach out to me at: <a href="mailto:hardikbatra.dev@gmail.com">hardikbatra.dev@gmail.com</a>
+I am a **Computer Science** student, currently halfway through my degree. I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative, and funny.
+- 📚 I’m currently learning ...
+  - *Angular*
+  - *TypeScript*
+- 🚀 I’m eager to join new projects.
+- ✔ Feel free to ask me anything! I’m motivated to help others.
+- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
+- 📫 Reach out to me at: <a href="mailto:batrahardik09@gmail.com">batrahardik09@gmail.com</a>
 <br>
 
 <!-- Social Links -->
 <div align="center">
-  <a href="mailto:hardikbatra.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/hardikbatra/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://www.instagram.com/hardik.codes/"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
+  <a href="mailto:batrahardik09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/hardik-batra-76768a241/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.instagram.com/hardik78278/"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
 </div>
-
 <br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
